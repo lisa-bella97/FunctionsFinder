@@ -5,6 +5,7 @@ GENERAL USAGE NOTES
 The program finds all descriptions of functions in program file that have been commented in Doxygen style. 
 Examples of these comments:
 /** \func int main() */
+
 /**
 \func void show()
 */
